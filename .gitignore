@@ -1,7 +1,7 @@
 # Data files - DO NOT commit large datasets
 data/raw/*.csv
 !data/raw/*sample.csv
-data/processed/integrated_table.csv
+data/Processed/integrated_table.csv
 *.parquet
 *.feather
 
